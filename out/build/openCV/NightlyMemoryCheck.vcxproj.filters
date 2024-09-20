@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\24466\Desktop\opencv_test\out\build\openCV\CMakeFiles\df7ff079accf6d0a3f950b84cead1f66\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Users\24466\Desktop\opencv_test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Users\24466\Desktop\opencv_test\out\build\openCV\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B640F3F4-7D00-3371-ABEA-DFA76A8D30F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

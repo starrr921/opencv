@@ -1,0 +1,10 @@
+^D:\USERS\24466\DESKTOP\OPENCV_TEST\OUT\BUILD\OPENCV\CMAKEFILES\DF7FF079ACCF6D0A3F950B84CEAD1F66\GENERATE.STAMP.RULE
+setlocal
+D:\develop\cmake-3.30.3-windows-x86_64\bin\cmake.exe -SD:/Users/24466/Desktop/opencv_test -BD:/Users/24466/Desktop/opencv_test/out/build/openCV --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Users/24466/Desktop/opencv_test/out/build/openCV/Rasterizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/Experimental.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/Nightly.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/Continuous.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/Rasterizer.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/PACKAGE.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/RUN_TESTS.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/ALL_BUILD.dir
+D:/Users/24466/Desktop/opencv_test/build/CMakeFiles/ZERO_CHECK.dir

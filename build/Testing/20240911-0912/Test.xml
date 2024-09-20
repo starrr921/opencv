@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20240911-0912-Experimental"
+	Name="[NON-UTF-8-BYTE-0xD1][NON-UTF-8-BYTE-0xF6][NON-UTF-8-BYTE-0xCD][NON-UTF-8-BYTE-0xFB][NON-UTF-8-BYTE-0xD0]ǿ[NON-UTF-8-BYTE-0xD5]"
+	Generator="ctest-3.30.3"
+	CompilerName="D:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/Hostx86/x64/cl.exe"
+	CompilerVersion="19.41.34120.0"
+	OSName="Windows"
+	Hostname="[NON-UTF-8-BYTE-0xD1][NON-UTF-8-BYTE-0xF6][NON-UTF-8-BYTE-0xCD][NON-UTF-8-BYTE-0xFB][NON-UTF-8-BYTE-0xD0]ǿ[NON-UTF-8-BYTE-0xD5]"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="7"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="28"
+	NumberOfPhysicalCPU="20"
+	TotalVirtualMemory="38687"
+	TotalPhysicalMemory="32543"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2303"
+	>
+	<Testing>
+		<StartDateTime>Sep 11 17:15 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartTestTime>1726046148</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 11 17:15 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndTestTime>1726046148</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
